@@ -87,3 +87,4 @@ option  ipv6  '0'
   ### [使用中有问题请issues](https://github.com/zwmscorm/sharealiddns/issues): https://github.com/zwmscorm/sharealiddns/issues
 ------------------------------------------------------------------------------------------------------------------------------------ 
        　　       　　       　　       　　       　2019.06.02 zwmscorm 
+                                       
